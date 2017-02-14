@@ -1,0 +1,30 @@
+body{
+    margin: 10px 0;
+    padding: 0;
+    text-align: center;
+    font-family: 'Fjalla One', sans-serif;
+    background: #DDEEAA
+}
+
+div#conteneur{
+    width: 770px;/*Largeur*/
+    margin: 0 auto; /*marge automatique qui centre le bloc après l'avoir remonté le plus haut possible dans mon affichage*/
+    text-align: left;/*centre le contenu de mon #conteneur*/
+    border: 2px solid #AABB44; /*bordure de mon #conteneur */
+    background: #fff;/*Couleur du fond de mon conteneur*/
+}
+h1#header{
+    height: 258px;/*personnaliser la hauteur de mon titre*/
+    background-image: url(../img/apple.jpg);
+    background-repeat:no-repeat;
+    margin-top: 0;
+    margin-left: 0;
+}
+
+div#Contenu{
+    padding: 0 30px 0 100px;
+    padding-left: 60px;
+    padding-right: 15px;
+    background-image: url(../img/bg_page.gif);
+    background-repeat:no-repeat;,border-color:
+}
